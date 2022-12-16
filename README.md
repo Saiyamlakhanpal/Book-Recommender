@@ -1,5 +1,6 @@
 
 # **Book-Recommendation-System**
+A book-recommendation system that shows the top 50 highest rated books as well as recommends a book based on user input.
 
 
 ## **1. Methodology**
@@ -7,15 +8,19 @@
 
 
 ## **2. Description**
-<img src="https://user-images.githubusercontent.com/7460892/207003772-ba2061bc-f8fd-4479-ba42-4712328b7085.png" width="80%" height="80%">
+<img src="https://user-images.githubusercontent.com/69579727/208171990-d27b3bf3-7e40-48d4-9af7-939eb858a2aa.png" width="80%" height="80%">
 
 
-## **3. Input / Output**
-<img src="https://user-images.githubusercontent.com/7460892/207004091-8f67548d-50ac-49c3-b7cb-ef8ec18a6491.png" width="40%" height="40%">
-
-
-## **4. Live link**
+## **3. Live link**
 Link: http://saiyam.pythonanywhere.com/
+
+
+## **4. Dataset**
+Taken from kaggle: https://www.kaggle.com/datasets/arashnic/book-recommendation-dataset
+
+
+## **5. Deployment**
+<img src="https://user-images.githubusercontent.com/69579727/208172795-69b58b1e-240d-4ea6-99a9-db83dce056cd.png" width="80%" height="80%">
 
 
 ## **5. Screenshot of the Interface**
