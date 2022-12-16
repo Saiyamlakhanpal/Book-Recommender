@@ -19,4 +19,4 @@ Link: http://saiyam.pythonanywhere.com/
 
 
 ## **5. Screenshot of the Interface**
-<img src="https://user-images.githubusercontent.com/7460892/207004468-57fc5284-f747-4b93-9bb7-2ff7f1032837.png" width="50%" height="50%">
+<img src="https://user-images.githubusercontent.com/69579727/208168520-98ebd04a-c9ef-4b20-a7ef-796a35449081.png" width="50%" height="50%">
